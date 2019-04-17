@@ -1,7 +1,7 @@
 # Python-GUI-Application--RAndom-DesignS
 A random pythom design GUI APPLICATION Written By ME in Python..
 #### It serves new design everytime..yoy open it.
-# Python-Random-GUI-DESIGN-APPLICATION-BY-ME
+## Python-Random-GUI-DESIGN-APPLICATION-BY-ME
 #### This is a GUI Application written in python.
 **NOTE: #### Most probably,to run the executable you will need to have python interpreter installed in your PC
 #### see Image:
